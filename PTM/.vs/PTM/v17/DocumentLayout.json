@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\PTM\\PTM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\controllers\\parkinglotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\parkinglotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\parkinglotsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\services\\parkinglotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\filters\\parkingticketfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\filters\\parkinglotsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\irepositories\\iparkinglotsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\services\\iservices\\iparkinglotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\services\\iservices\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\updateticketrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\automapperprofiles\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\irepositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\ptmticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\resources\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:resources\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\common\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\badresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|c:\\projects\\ptm\\ptm.dal\\repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|c:\\projects\\ptm\\ptm\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\common\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\requestdto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\passwordpolicydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E927666-ADF6-4E95-AF29-D2C45776297B}|..\\PTM.DTO\\PTM.DTO.csproj|c:\\projects\\ptm\\ptm.dto\\dtos\\userotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\common\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\common\\localization\\jsonstringlocalizerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\common\\localization\\jsonstringlocalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|c:\\projects\\ptm\\ptm.bal\\utilities\\customexceptions\\censusagesanityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1646721036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T04:37:47.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingLotsRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParkingLotsFilter.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Filters\\ParkingLotsFilter.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Filters\\ParkingLotsFilter.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Filters\\ParkingLotsFilter.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Filters\\ParkingLotsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkingLotsService.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Services\\ParkingLotsService.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\ParkingLotsService.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Services\\ParkingLotsService.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Services\\ParkingLotsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingLotsController.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Controllers\\ParkingLotsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingLotsController.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Controllers\\ParkingLotsController.cs",
+              "RelativeToolTip": "Controllers\\ParkingLotsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\TicketRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParkingTicketFilter.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Filters\\ParkingTicketFilter.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Filters\\ParkingTicketFilter.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Filters\\ParkingTicketFilter.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Filters\\ParkingTicketFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IParkingLotsRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Services\\TicketService.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Services\\TicketService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwC0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IParkingLotsService.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Services\\IServices\\ITicketService.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\IServices\\ITicketService.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Services\\IServices\\ITicketService.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Services\\IServices\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTicketRequestDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UpdateTicketRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\UpdateTicketRequestDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UpdateTicketRequestDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\UpdateTicketRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBJwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\AutoMapperProfiles\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\AutoMapperProfiles\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\AutoMapperProfiles\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\AutoMapperProfiles\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIBJwEcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\IRepositories\\ITicketRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\ITicketRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\IRepositories\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PtmTicketDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\PtmTicketDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\PtmTicketDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\PtmTicketDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\PtmTicketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "en-US.json",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Resources\\en-US.json",
+              "RelativeDocumentMoniker": "Resources\\en-US.json",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Resources\\en-US.json",
+              "RelativeToolTip": "Resources\\en-US.json",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T19:47:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Common\\ResponseMessage.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\ResponseMessage.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Common\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BadResponseData.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\BadResponseData.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\BadResponseData.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\BadResponseData.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\BadResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\ResponseData.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\ResponseData.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\ResponseData.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\ResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Services\\AuthService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DAL\\Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Common.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Common\\Common.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Common.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Common\\Common.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\RequestDTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\RequestDTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\RequestDTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\RequestDTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PasswordPolicyDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\PasswordPolicyDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\PasswordPolicyDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\PasswordPolicyDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\PasswordPolicyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserotpDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UserotpDTO.cs",
+              "RelativeDocumentMoniker": "..\\PTM.DTO\\DTOs\\UserotpDTO.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.DTO\\DTOs\\UserotpDTO.cs",
+              "RelativeToolTip": "..\\PTM.DTO\\DTOs\\UserotpDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\MailSettings.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Common\\MailSettings.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\MailSettings.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Common\\MailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JsonStringLocalizerFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizerFactory.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizerFactory.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizerFactory.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JsonStringLocalizer.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizer.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizer.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizer.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Common\\Localization\\JsonStringLocalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CensusAgeSanityException.cs",
+              "DocumentMoniker": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\CustomExceptions\\CensusAgeSanityException.cs",
+              "RelativeDocumentMoniker": "..\\PTM.BAL\\Utilities\\CustomExceptions\\CensusAgeSanityException.cs",
+              "ToolTip": "C:\\Projects\\PTM\\PTM.BAL\\Utilities\\CustomExceptions\\CensusAgeSanityException.cs",
+              "RelativeToolTip": "..\\PTM.BAL\\Utilities\\CustomExceptions\\CensusAgeSanityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:45.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PTM
+build_property.RootNamespace = PTM
+build_property.ProjectDir = C:\Projects\PTM\PTM\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\PTM\PTM
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/BlockedAccountTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxCbG9ja2VkQWNjb3VudFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/ForgetPasswordOTPTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxGb3JnZXRQYXNzd29yZE9UUFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/LatestTokenExpireTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxMYXRlc3RUb2tlbkV4cGlyZVRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/LoginOTPTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxMb2dpbk9UUFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/ResetChallengeQuestionOTPTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxSZXNldENoYWxsZW5nZVF1ZXN0aW9uT1RQVGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/ResetChallengeQuestionTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxSZXNldENoYWxsZW5nZVF1ZXN0aW9uVGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/ResetPasswordTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxSZXNldFBhc3N3b3JkVGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/EmailTemplate/UnBlockedAccountTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RW1haWxUZW1wbGF0ZVxVbkJsb2NrZWRBY2NvdW50VGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/PTM/PTM/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q5m538g6ph
