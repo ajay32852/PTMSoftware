@@ -84,12 +84,35 @@ namespace PTM.Controllers
             });
 
         }
-        
-        
-        
-        
-        
-        
+
+
+        /// <summary>
+        /// AUTHOR BY : AJAY KUMAR
+        /// </summary>
+        /// <param name="filter"></param>
+        /// <returns></returns>
+        [SwaggerOperation(Summary = "Delete Parking Lot ", Description = "Delete Parking Lot")]
+        [SwaggerResponse(200, "Success")]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(401, "Unauthorized")]
+        [HttpDelete("deleteparkinglot")]
+        public async Task<IActionResult> DeleteParkingLot(int parkingLotId)
+        {
+
+            //var data = await parkingLotsService.DeleteParkingLot(request);
+            return Ok(new ResponseData
+            {
+                Code = Convert.ToInt16(HttpStatusCode.OK),
+                Message = localizer[name: ResponseMessage.Success.ToString()].Value,
+                Status = true,
+                Data = ""
+            });
+
+        }
+
+
+
+
 
 
     }

@@ -3559,11 +3559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PTM\\PTM.BAL\\PTM.BAL.csproj",
+      "projectUniqueName": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\PTM.BAL.csproj",
       "projectName": "PTM.BAL",
-      "projectPath": "C:\\Projects\\PTM\\PTM.BAL\\PTM.BAL.csproj",
+      "projectPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\PTM.BAL.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PTM\\PTM.BAL\\obj\\",
+      "outputPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3584,11 +3584,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\PTM\\PTM.DAL\\PTM.DAL.csproj": {
-              "projectPath": "C:\\Projects\\PTM\\PTM.DAL\\PTM.DAL.csproj"
+            "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\PTM.DAL.csproj": {
+              "projectPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\PTM.DAL.csproj"
             },
-            "C:\\Projects\\PTM\\PTM.DTO\\PTM.DTO.csproj": {
-              "projectPath": "C:\\Projects\\PTM\\PTM.DTO\\PTM.DTO.csproj"
+            "D:\\.NetCore Projects\\PTMSoftware\\PTM.DTO\\PTM.DTO.csproj": {
+              "projectPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DTO\\PTM.DTO.csproj"
             }
           }
         }
