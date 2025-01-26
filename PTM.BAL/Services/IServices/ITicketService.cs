@@ -8,7 +8,9 @@ namespace PTM.BAL.Services.IServices
         Task<List<PtmTicketDTO>> GetAllParkingList(ParkingTicketFilter filter);
         Task<PtmTicketDTO> AddNewBookingParking(AddTicketRequestDTO request);
         Task<PtmTicketDTO> UpdateBookingParking(UpdateTicketRequestDTO request);
-        
+        Task<PtmTicketDTO> GetParkingById(int parkingTicketId);
+
+
 
 
     }

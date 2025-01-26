@@ -112,6 +112,28 @@ namespace PTM.Controllers
         }
 
 
+        /// <summary>
+        /// AUTHOR BY : AJAY KUMAR
+        /// </summary>
+        /// <param name="filter"></param>
+        /// <returns></returns>
+        [SwaggerOperation(Summary = "Get Parking Ticket Record By Id", Description = "Get Parking Ticket Record By Id")]
+        [SwaggerResponse(200, "Success")]
+        [SwaggerResponse(400, "Bad Request")]
+        [SwaggerResponse(401, "Unauthorized")]
+        [HttpGet("getparkingbyid")]
+        public async Task<IActionResult> GetParkingById([FromQuery] int parkingTicketId)
+        {
+            var data = await ticketService.GetParkingById(parkingTicketId);
+            return Ok(new ResponseData
+            {
+                Code = Convert.ToInt16(HttpStatusCode.OK),
+                Message = localizer[name: ResponseMessage.Success.ToString()].Value,
+                Status = true,
+                Data = data
+            });
+
+        }
 
 
 

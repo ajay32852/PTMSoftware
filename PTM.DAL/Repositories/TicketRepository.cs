@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Data;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using PTM.BAL.Utilities.Filters;
 using PTM.DAL.DataContext;
@@ -103,6 +104,16 @@ namespace PTM.DAL.Repositories
 
             return existingTicket; 
         }
+        public async Task<PtmTicket> GetParkingById(int parkingTicketId)
+        {
+            var ticket = await ptmDBContext.PtmTickets
+                .Include(x => x.User)
+                .Include(x => x.Vehicle)
+                .Include(x => x.Parkinglot)
+                .FirstOrDefaultAsync(x => x.Ticketid == parkingTicketId);
+            return ticket; // Return the found ticket
+        }
+
 
 
 
