@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PTM\\PTM.DTO\\PTM.DTO.csproj",
+      "projectUniqueName": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DTO\\PTM.DTO.csproj",
       "projectName": "PTM.DTO",
-      "projectPath": "C:\\Projects\\PTM\\PTM.DTO\\PTM.DTO.csproj",
+      "projectPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DTO\\PTM.DTO.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PTM\\PTM.DTO\\obj\\",
+      "outputPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

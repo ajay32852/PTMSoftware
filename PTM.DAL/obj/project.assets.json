@@ -5413,11 +5413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\PTM\\PTM.DAL\\PTM.DAL.csproj",
+      "projectUniqueName": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\PTM.DAL.csproj",
       "projectName": "PTM.DAL",
-      "projectPath": "C:\\Projects\\PTM\\PTM.DAL\\PTM.DAL.csproj",
+      "projectPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\PTM.DAL.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\PTM\\PTM.DAL\\obj\\",
+      "outputPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

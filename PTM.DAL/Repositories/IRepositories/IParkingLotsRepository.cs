@@ -8,5 +8,7 @@ namespace PTM.DAL.Repositories.IRepositories
         Task<List<PtmParkinglot>> GetAllParkingLotsList(ParkingLotsFilter filter,int userId);
         Task<PtmParkinglot> AddParkingLots(PtmParkinglot newRequestMap);
         Task<PtmParkinglot> UpdateParkingLots(PtmParkinglot newRequestMap);
+        Task<bool> DeleteParkingLot(int parkingLotId);
+
     }
 }

@@ -161,6 +161,36 @@
         }
       }
     },
+    "/api/ParkingLots/deleteparkinglot": {
+      "delete": {
+        "tags": [
+          "ParkingLots"
+        ],
+        "summary": "Delete Parking Lot ",
+        "description": "Delete Parking Lot",
+        "parameters": [
+          {
+            "name": "parkingLotId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
+    },
     "/api/Tickets/getallparking": {
       "get": {
         "tags": [
