@@ -265,6 +265,38 @@
   },
   {
     "ContainingType": "PTM.Controllers.TicketsController",
+    "Method": "GetParkingById",
+    "RelativePath": "api/Tickets/getparkingbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parkingTicketId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "PTM.Controllers.TicketsController",
     "Method": "UpdateBookingParking",
     "RelativePath": "api/Tickets/updatebookingparking",
     "HttpMethod": "POST",

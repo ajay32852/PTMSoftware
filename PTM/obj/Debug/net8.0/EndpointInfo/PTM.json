@@ -351,6 +351,36 @@
           }
         }
       }
+    },
+    "/api/Tickets/getparkingbyid": {
+      "get": {
+        "tags": [
+          "Tickets"
+        ],
+        "summary": "Get Parking Ticket Record By Id",
+        "description": "Get Parking Ticket Record By Id",
+        "parameters": [
+          {
+            "name": "parkingTicketId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        }
+      }
     }
   },
   "components": {

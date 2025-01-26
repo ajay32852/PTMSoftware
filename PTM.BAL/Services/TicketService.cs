@@ -98,5 +98,18 @@ namespace PTM.BAL.Services
             return ticketResponse;
         }
 
+        public async Task<PtmTicketDTO> GetParkingById(int parkingTicketId)
+        {
+            var getTicketslistResult = await _ticketRepository.GetParkingById(parkingTicketId);
+            if (getTicketslistResult == null)
+            {
+                throw new NoDataException(_localizer[name: ResponseMessage.DataNotFound.ToString()]);
+            }
+            var getTicketslist = _mapper.Map<PtmTicketDTO>(getTicketslistResult);
+            return getTicketslist; // Return the mapped DTO
+        }
+
+
+
     }
 }

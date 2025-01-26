@@ -8,6 +8,8 @@ namespace PTM.DAL.Repositories.IRepositories
         Task<List<PtmTicket>> GetAllParkingListByUserId(ParkingTicketFilter filter,int userId);
         Task<PtmTicket> AddNewBookingParking(PtmTicket newTicket);
         Task<PtmTicket> UpdateBookingParking(PtmTicket newTicket);
-        
+        Task<PtmTicket> GetParkingById(int parkingTicketId);
+
+
     }
 }
