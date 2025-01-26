@@ -98,8 +98,7 @@ namespace PTM.Controllers
         [HttpDelete("deleteparkinglot")]
         public async Task<IActionResult> DeleteParkingLot(int parkingLotId)
         {
-
-            //var data = await parkingLotsService.DeleteParkingLot(request);
+            var data = await parkingLotsService.DeleteParkingLot(parkingLotId);
             return Ok(new ResponseData
             {
                 Code = Convert.ToInt16(HttpStatusCode.OK),
@@ -109,6 +108,7 @@ namespace PTM.Controllers
             });
 
         }
+
 
 
 

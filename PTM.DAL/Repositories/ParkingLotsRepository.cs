@@ -50,6 +50,18 @@ namespace PTM.DAL.Repositories
             }
             return existingParkingLot; // Return the updated parking lot
         }
+        public async Task<bool> DeleteParkingLot(int parkingLotId)
+        {
+            var existingParkingLot = await ptmDBContext.PtmParkinglots
+                           .FirstOrDefaultAsync(x => x.Parkinglotid == parkingLotId);
+            if (existingParkingLot != null)
+            {
+                ptmDBContext.PtmParkinglots.Remove(existingParkingLot);
+                await ptmDBContext.SaveChangesAsync();
+                return true; // Deletion was successful
+            }
+            return false; // Parking lot not found
+        }
 
 
     }

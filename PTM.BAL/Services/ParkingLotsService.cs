@@ -83,6 +83,11 @@ namespace PTM.BAL.Services
             var updateParkingLotsResponseMap = _mapper.Map<ParkinglotDTO>(updateParkingLots);
             return updateParkingLotsResponseMap;
         }
+        public async Task<bool> DeleteParkingLot(int parkingLotId)
+        {
+            var deleteParkingLots = await _parkingLotsRepository.DeleteParkingLot(parkingLotId);
+            return deleteParkingLots;
+        }
 
 
 

@@ -9,6 +9,7 @@ namespace PTM.BAL.Services.IServices
         Task<List<ParkinglotDTO>> GetAllParkingLotsList(ParkingLotsFilter filter);
         Task<ParkinglotDTO> AddParkingLots(AddParkinglotDTO request);
         Task<ParkinglotDTO> UpdateParkingLots(UpdateParkinglotDTO request);
+        Task<bool> DeleteParkingLot(int parkingLotId);
         
 
     }

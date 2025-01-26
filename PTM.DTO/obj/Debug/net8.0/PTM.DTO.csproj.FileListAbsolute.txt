@@ -22,3 +22,16 @@ C:\Projects\PTM\PTM.DTO\obj\Debug\net8.0\PTM.DTO.dll
 C:\Projects\PTM\PTM.DTO\obj\Debug\net8.0\refint\PTM.DTO.dll
 C:\Projects\PTM\PTM.DTO\obj\Debug\net8.0\PTM.DTO.pdb
 C:\Projects\PTM\PTM.DTO\obj\Debug\net8.0\ref\PTM.DTO.dll
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\bin\Debug\net8.0\PTM.DTO.deps.json
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\bin\Debug\net8.0\PTM.DTO.dll
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\bin\Debug\net8.0\PTM.DTO.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.csproj.AssemblyReference.cache
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.AssemblyInfoInputs.cache
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.AssemblyInfo.cs
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.csproj.CoreCompileInputs.cache
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.sourcelink.json
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.dll
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\refint\PTM.DTO.dll
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\PTM.DTO.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.DTO\obj\Debug\net8.0\ref\PTM.DTO.dll

@@ -32,3 +32,21 @@ C:\Projects\PTM\PTM.BAL\obj\Debug\net8.0\PTM.BAL.dll
 C:\Projects\PTM\PTM.BAL\obj\Debug\net8.0\refint\PTM.BAL.dll
 C:\Projects\PTM\PTM.BAL\obj\Debug\net8.0\PTM.BAL.pdb
 C:\Projects\PTM\PTM.BAL\obj\Debug\net8.0\ref\PTM.BAL.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.BAL.deps.json
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.BAL.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.BAL.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.DAL.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.DTO.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.DAL.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\bin\Debug\net8.0\PTM.DTO.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.csproj.AssemblyReference.cache
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.AssemblyInfoInputs.cache
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.AssemblyInfo.cs
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.csproj.CoreCompileInputs.cache
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.sourcelink.json
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.csproj.Up2Date
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\refint\PTM.BAL.dll
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\PTM.BAL.pdb
+D:\.NetCore Projects\PTMSoftware\PTM.BAL\obj\Debug\net8.0\ref\PTM.BAL.dll
