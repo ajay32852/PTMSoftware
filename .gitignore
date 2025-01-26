@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# Ignore all DLL files in the project
+*.dll
+
 # Ignore Visual Studio files
 .vs/
 *.suo
