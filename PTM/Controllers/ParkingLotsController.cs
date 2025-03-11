@@ -95,7 +95,7 @@ namespace PTM.Controllers
         [SwaggerResponse(200, "Success")]
         [SwaggerResponse(400, "Bad Request")]
         [SwaggerResponse(401, "Unauthorized")]
-        [HttpDelete("deleteparkinglot")]
+        [HttpDelete("deleteparkinglot/{parkingLotId}")]
         public async Task<IActionResult> DeleteParkingLot(int parkingLotId)
         {
             var data = await parkingLotsService.DeleteParkingLot(parkingLotId);
