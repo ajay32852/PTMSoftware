@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTM.BAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55595b7eb8b0ea61b0917b785873377c84d45768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7141808bc23b10962a4c1c15a6e5f8d13ae9288")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTM.BAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTM.BAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

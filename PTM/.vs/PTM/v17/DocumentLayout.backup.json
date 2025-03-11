@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\controllers\\parkinglotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\parkinglotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|d:\\.netcore projects\\ptmsoftware\\ptm.dal\\repositories\\parkinglotsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90EDD3F6-3559-462F-AA4A-E2E410652028}|..\\PTM.DAL\\PTM.DAL.csproj|d:\\.netcore projects\\ptmsoftware\\ptm.dal\\repositories\\irepositories\\iparkinglotsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|d:\\.netcore projects\\ptmsoftware\\ptm.bal\\services\\parkinglotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03029B4B-A741-4792-82AB-6E48CFDD810C}|..\\PTM.BAL\\PTM.BAL.csproj|d:\\.netcore projects\\ptmsoftware\\ptm.bal\\services\\iservices\\iparkinglotsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|d:\\.netcore projects\\ptmsoftware\\ptm\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE7A7B2-4F52-42E3-8F68-3E8435AD3248}|PTM.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,111 +67,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\TicketsController.cs*",
-              "RelativeToolTip": "Controllers\\TicketsController.cs*",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAmwHwAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T10:32:39.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T10:32:03.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T10:31:59.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ParkingLotsRepository.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
-              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
-              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\ParkingLotsRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwAkAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T05:49:33.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IParkingLotsRepository.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
-              "RelativeDocumentMoniker": "..\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
-              "RelativeToolTip": "..\\PTM.DAL\\Repositories\\IRepositories\\IParkingLotsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T05:49:01.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ParkingLotsService.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\Services\\ParkingLotsService.cs",
-              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\ParkingLotsService.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\Services\\ParkingLotsService.cs",
-              "RelativeToolTip": "..\\PTM.BAL\\Services\\ParkingLotsService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAD4v1EAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T05:47:38.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IParkingLotsService.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
-              "RelativeDocumentMoniker": "..\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
-              "RelativeToolTip": "..\\PTM.BAL\\Services\\IServices\\IParkingLotsService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T05:46:53.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ParkingLotsController.cs",
               "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\ParkingLotsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ParkingLotsController.cs",
               "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\ParkingLotsController.cs",
               "RelativeToolTip": "Controllers\\ParkingLotsController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAgwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:08:09.688Z"
+              "WhenOpened": "2025-01-28T16:52:08.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\.NetCore Projects\\PTMSoftware\\PTM\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwH4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:56:19.181Z"
+              "WhenOpened": "2025-01-26T12:28:22.67Z",
+              "EditorCaption": ""
             }
           ]
         }

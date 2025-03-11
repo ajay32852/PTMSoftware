@@ -85,6 +85,11 @@ namespace PTM.BAL.Services
         }
         public async Task<bool> DeleteParkingLot(int parkingLotId)
         {
+            var findParkingLots = await _parkingLotsRepository.FindParkingLot(parkingLotId);
+            if(findParkingLots is  null)
+            {
+                throw new InvalidOperationException(_localizer[name: ResponseMessage.DataNotFound.ToString()]);
+            }
             var deleteParkingLots = await _parkingLotsRepository.DeleteParkingLot(parkingLotId);
             return deleteParkingLots;
         }

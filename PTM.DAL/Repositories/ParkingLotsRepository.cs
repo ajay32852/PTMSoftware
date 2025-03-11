@@ -62,6 +62,12 @@ namespace PTM.DAL.Repositories
             }
             return false; // Parking lot not found
         }
+        public async Task<PtmParkinglot> FindParkingLot(int parkingLotId)
+        {
+            var existingParkingLot = await ptmDBContext.PtmParkinglots
+                           .FirstOrDefaultAsync(x => x.Parkinglotid == parkingLotId);
+            return existingParkingLot;
+        }
 
 
     }
