@@ -26,6 +26,7 @@ namespace PTM.DAL.Repositories
                 .Include(x => x.User)
                 .Include(x => x.Vehicle)
                 .Include(x => x.Parkinglot)
+                .Include(x=>x.Vehicle.Category)
                 .Where(x => x.Userid == userId);
             // Apply filters based on the filter properties
             if (filter.IsPaid.HasValue)
