@@ -9,7 +9,7 @@ namespace PTM.DAL.Repositories.IRepositories
         Task<PtmParkinglot> AddParkingLots(PtmParkinglot newRequestMap);
         Task<PtmParkinglot> UpdateParkingLots(PtmParkinglot newRequestMap);
         Task<bool> DeleteParkingLot(int parkingLotId);
-        Task<bool> FindParkingLot(int parkingLotId);
+        Task<PtmParkinglot> FindParkingLot(int parkingLotId);
 
     }
 }

@@ -52,10 +52,17 @@ namespace PTM.DAL.Repositories
         }
         public async Task<bool> DeleteParkingLot(int parkingLotId)
         {
-            var existingParkingLot = await ptmDBContext.PtmParkinglots
+            var existingParkingLot = await ptmDBContext.PtmParkinglots.Include(x=>x.PtmTickets)
                            .FirstOrDefaultAsync(x => x.Parkinglotid == parkingLotId);
             if (existingParkingLot != null)
             {
+                var relatedTickets = await ptmDBContext.PtmTickets
+                .Where(t => t.Parkinglotid == parkingLotId)
+                .ToListAsync();
+
+                ptmDBContext.PtmTickets.RemoveRange(relatedTickets); // Remove related tickets
+
+
                 ptmDBContext.PtmParkinglots.Remove(existingParkingLot);
                 await ptmDBContext.SaveChangesAsync();
                 return true; // Deletion was successful
